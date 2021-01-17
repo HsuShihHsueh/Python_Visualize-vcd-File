@@ -1,7 +1,7 @@
 # make .vcd visualization
 
 ## the main page
-<img src="picture/img_main.png" width="375" />
+<img src="/picture/img_main.png" width="375" />
 
 
 ## the plot image
