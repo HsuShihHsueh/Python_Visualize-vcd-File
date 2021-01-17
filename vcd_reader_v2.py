@@ -180,8 +180,8 @@ tk.geometry(str(arr.shape[0]*100)+"x200")
 tk.resizable(0,0) #不可以更改大⼩
 # img on/off import
 img=[]
-img.append(PhotoImage(file='off.png'))
-img.append(PhotoImage(file='on.png'))
+img.append(PhotoImage(file='picture\off.png'))
+img.append(PhotoImage(file='picture\on.png'))
 # gui layout
 label=[]
 for i in range(arr.shape[0]):
