@@ -1,10 +1,10 @@
 # make .vcd visualization
 
 ## the main page
-<img src="https://github.com/majaja068/Visualization_.vcd/picture/img_main.png" width="375" />
+<img src="picture/img_main.png" width="375" />
 
 
 ## the plot image
-<img src="https://github.com/majaja068/Visualization_.vcd/picture/img_plot.png" width="375" />
+<img src="/picture/img_plot.png" width="375" />
 
 
