@@ -11,7 +11,7 @@ it can divide by three parts：<br>&nbsp;&nbsp;&nbsp;&nbsp;
                 => which achieves by matplotlib<br>&nbsp;&nbsp;&nbsp;
     gui         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 => which achieves by tkinter<br>
-
+	<font color="red">紅色</font><
 
 ## the main page
 <img src="/picture/img_main.png" width="375" />
