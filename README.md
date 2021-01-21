@@ -5,8 +5,8 @@ the main idea is to make .vcd file(which usually read by quartus ii) became more
 
 this project prepares for "Visualize .vcd File by 8x8 Martix"<br><br>
 it can divide by three parts：<br>
-  &nbsp file_reader => which achieves by builit-in library(I/O)<br>
-  &nbsp plot        => which achieves by matplotlib<br>
+  &nbsp; file_reader => which achieves by builit-in library(I/O)<br>
+  &nbsp; plot        => which achieves by matplotlib<br>
   \tgui         => which achieves by tkinter<br>
 
 
