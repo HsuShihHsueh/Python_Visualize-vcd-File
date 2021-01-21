@@ -4,9 +4,9 @@ the main idea is to make .vcd file(which usually read by quartus ii) became more
 <img src="/picture/img_quartusii.png" width="375" />
 
 this project prepares for "Visualize .vcd File by 8x8 Martix"<br><br>
-it can divide by three parts：<br>&nbsp;&nbsp;
-    file_reader => which achieves by builit-in library(I/O)<br>&nbsp;&nbsp;
-    plot        => which achieves by matplotlib<br>&nbsp;&nbsp;
+it can divide by three parts：<br>&nbsp;&nbsp;&nbsp;&nbsp;
+    file_reader => which achieves by builit-in library(I/O)<br>&nbsp;&nbsp;&nbsp;&nbsp;
+    plot        => which achieves by matplotlib<br>&nbsp;&nbsp;&nbsp;&nbsp;
     gui         => which achieves by tkinter<br>
 
 
