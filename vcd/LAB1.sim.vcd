@@ -1,0 +1,72 @@
+$comment
+Copyright (C) 1991-2010 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+$end
+
+$date 
+  09/17/2020 20:36:25 
+$end
+$version 
+ QUARTUS_VCD_EXPORT 1.0 
+$end
+$timescale
+  1 ps
+$end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var reg 1 # C0 $end
+$var reg 1 $ C1 $end
+$var reg 1 % S $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+$end
+#10000
+1"
+1%
+#20000
+1!
+0"
+#30000
+1"
+1$
+0%
+#40000
+0!
+0"
+1#
+0$
+1%
+#50000
+1"
+1$
+0%
+#60000
+1!
+0"
+#70000
+1"
+1%
+#80000
+0!
+0"
+0#
+0$
+0%
+#90000
