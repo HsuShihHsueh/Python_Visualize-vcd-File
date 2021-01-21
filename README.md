@@ -8,6 +8,7 @@ it can divide by three parts：<br>
   \tfile_reader => which achieves by builit-in library(I/O)<br>
   \tplot        => which achieves by matplotlib<br>
   \tgui         => which achieves by tkinter<br>
+  <font size="30">moodle</font>
 
 ## the main page
 <img src="/picture/img_main.png" width="375" />
