@@ -8,7 +8,7 @@ it can divide by three parts：<br>&nbsp;&nbsp;&nbsp;&nbsp;
     file_reader 
                 => which achieves by builit-in library(I/O)<br>&nbsp;&nbsp;&nbsp;&nbsp;
     plot        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                => which achieves by matplotlib<br>&nbsp;&nbsp;&nbsp;&nbsp;
+                => which achieves by matplotlib<br>&nbsp;&nbsp;&nbsp;
     gui         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 => which achieves by tkinter<br>
 
