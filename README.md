@@ -1,4 +1,4 @@
-# make .vcd visual
+# make .vcd visual (by Python)
 ## the main idea
 the main idea is to make .vcd file(which usually read by quartus ii) became more readable<br><br>
 <img src="/picture/img_quartusii.png" width="375" />
