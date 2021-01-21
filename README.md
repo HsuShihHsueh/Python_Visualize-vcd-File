@@ -1,6 +1,6 @@
 # make .vcd visualization
-the main idea is to make .vcd file(which usually read by quartus ii) became more readable
-<br>
+## the main idea
+the main idea is to make .vcd file(which usually read by quartus ii) became more readable<br><br>
 <img src="/picture/img_quartusii.png" width="375" />
 
 this project prepares for "Visualize .vcd File by 8x8 Martix"<br><br>
