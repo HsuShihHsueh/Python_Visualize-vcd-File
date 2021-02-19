@@ -1,6 +1,6 @@
 # make .vcd visual (by Python)
 👇 youtube link<br>
-<kbd><a href="https://www.youtube.com/watch?v=c_hv4BbzV-I" target=_blank><img src="https://i9.ytimg.com/vi/c_hv4BbzV-I/maxresdefault.jpg?time=1613617500000&sqp=CNyyt4EG&rs=AOn4CLAaoRh82vFsxPaTBUeoCYsfhBXNLg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
+<kbd><a href="https://www.youtube.com/watch?v=c_hv4BbzV-I" target=_blank><img src="https://img.youtube.com/vi/c_hv4BbzV-I/maxresdefault.jpg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 ## the main idea
 the main idea is to make .vcd file(which usually read by quartus ii) became more readable<br><br>
 <img src="/picture/img_quartusii.png" width="375" />
